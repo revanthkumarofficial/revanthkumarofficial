@@ -3,8 +3,7 @@
 I'm a 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=revanthkumarofficial)](https://github.com/revanthkumarofficial/github-readme-stats)
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=revanthkumarofficial)](https://github.com/revanthkumarofficial/github-readme-stats.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 
