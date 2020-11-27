@@ -2,9 +2,9 @@
 ### SOFTWARE DEVELOPER, YOUTUBE CONTENT CREATOR, BLOGGER, TEACHER
 ![SOFTWARE DEVELOPER, BLOGGER, TEACHER](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 ---
-I'm REVANTH a FULL STACK DEVELOPER, I do work on Design and Development. I really enjoy learning Languages and Frameworks like SpringBoot, Angular, as well as work in Blogging. I also enjoy stuff like Wireframing, UI, UX, and design in general.
+I'm REVANTH a FULL STACK DEVELOPER, I do work on Design and Development. I really enjoy learning Languages and Frameworks like SpringBoot, Angular, as well do Blogging, Youtube Content Creation and Teaching. In general, i also enjoy stuff like Designing and Wireframing of UI/UX.
 
-Skills: HTML / CSS / CSS / JAVASCRIPT / SQL / JAVA 
+**Skills:** Planning, Developing, Testing, Documenting and Problem Solving.
 
 - 🔭 I’m currently working on my Personal Portfolio. 
 - 🌱 I’m currently learning REACT
@@ -14,13 +14,14 @@ Skills: HTML / CSS / CSS / JAVASCRIPT / SQL / JAVA
 - 😄 Pronouns: -, -, -.
 - ⚡ Fun fact: I play CRICKET. SHETTLE, FOOTBALL and CHESS.
 
-#### Top Technologies
+#### Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)<!-- [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/revanthkumar/)  
+#### ARTICLES AND PUBLICATIONS
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/username/)  
 
 <br />
 
