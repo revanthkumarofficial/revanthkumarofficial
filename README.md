@@ -1,11 +1,17 @@
-### Hi there 👋
+### Hi there 👋, @revanthkumarofficial
+#### SOFTWARE DEVELOPER, BLOGGER, TEACHER
+![SOFTWARE DEVELOPER, BLOGGER, TEACHER](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm a 
+I'm REVANTH from INDIA, and I do work on Design and Development. I really enjoy learning Languages and Frameworks like SpringBoot, Angular, as well as work in Blogging. I also enjoy stuff like Wireframing, UI, UX, and design in general.
+
+Skills: HTML / CSS / CSS / JAVASCRIPT / SQL / JAVA 
+
+- 🔭 I’m currently working on my Personal Portfolio. 
+- 🌱 I’m currently learning REACT 
+- 💬 Ask me about HTML, CSS, JAVASCRIPT, ANGULAR, SQL, JAVA 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/revanthkumar/)  
 
 
 
