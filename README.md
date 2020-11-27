@@ -2,7 +2,7 @@
 #### SOFTWARE DEVELOPER, BLOGGER, TEACHER
 ![SOFTWARE DEVELOPER, BLOGGER, TEACHER](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-</br>
+---
 I'm REVANTH from INDIA, and I do work on Design and Development. I really enjoy learning Languages and Frameworks like SpringBoot, Angular, as well as work in Blogging. I also enjoy stuff like Wireframing, UI, UX, and design in general.
 
 Skills: HTML / CSS / CSS / JAVASCRIPT / SQL / JAVA 
