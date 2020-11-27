@@ -25,13 +25,13 @@ Skills: HTML / CSS / CSS / JAVASCRIPT / SQL / JAVA
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
-- :email: ipenywis@gmail.com
+- :paperclip: [My Resume/CV](https://github.com/username/resume.pdf)
+- :email: ______@gmail.com
 
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=revanthkumarofficial.official)
 
 <details>
 <summary>
