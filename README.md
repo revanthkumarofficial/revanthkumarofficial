@@ -23,7 +23,6 @@ Skills: HTML / CSS / CSS / JAVASCRIPT / SQL / JAVA
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/revanthkumar/)  
 
 <br />
-<br />
 
 #### Bizness
 - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
@@ -40,8 +39,8 @@ Skills: HTML / CSS / CSS / JAVASCRIPT / SQL / JAVA
 </summary>
 
 <br >
-
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
+<!--
+I love sharing knowledge and putting tutorials, courses and posts together for helping others, and tjat's why CoderOne Youtube Channel exists!
 
 #### What is CoderOne?
 
@@ -58,19 +57,19 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 <!--END_SECTION:waka-->
-
+-->
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
+![@REVANTHKUMAROFFICIAL's github stats](https://github-readme-stats.vercel.app/api?username=revanthkumarofficial&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
 
-
+<!--
 [reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
 [vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
 [htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
 [javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
-
+-->
 
 
 
