@@ -38,6 +38,7 @@ I'm REVANTH a FULL STACK DEVELOPER, I do work on Design and Development. I reall
 <summary>
   More stuff about me
 </summary>
+  
 #### Github Stats
 
 ![@REVANTHKUMAROFFICIAL's github stats](https://github-readme-stats.vercel.app/api?username=revanthkumarofficial&count_private=true&theme=tokyonight&hide=contribs,prs)
@@ -53,8 +54,9 @@ REVANTHKUMARTECHIE is a youtube channel for learning Web/Mobile development, cod
 
 <!--
 #### Coding Stats
-
+-->
 <!--START_SECTION:waka-->
+<!--
 ```text
 TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
 HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
@@ -62,10 +64,8 @@ Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░
 Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
-<!--END_SECTION:waka-->
-
 -->
-
+<!--END_SECTION:waka-->
 
 
 
