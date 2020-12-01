@@ -2,7 +2,6 @@
 ### SOFTWARE DEVELOPER, YOUTUBE CONTENT CREATOR, BLOGGER, TEACHER
 ![SOFTWARE DEVELOPER, BLOGGER, TEACHER](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 ---
-
 I'm REVANTH a FULL STACK DEVELOPER, I do work on Design and Development. I really enjoy learning Languages and Frameworks like SpringBoot, Angular, as well do Blogging, Youtube Content Creation and Teaching. In general, i also enjoy stuff like Designing and Wireframing of UI/UX.
 
 **Skills:** Planning, Developing, Testing, Documenting and Problem Solving.
@@ -39,15 +38,20 @@ I'm REVANTH a FULL STACK DEVELOPER, I do work on Design and Development. I reall
 <summary>
   More stuff about me
 </summary>
+#### Github Stats
+
+![@REVANTHKUMAROFFICIAL's github stats](https://github-readme-stats.vercel.app/api?username=revanthkumarofficial&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+I love sharing knowledge and putting tutorials, courses and posts together for helping others, and that's why CoderOne Youtube Channel exists!
+
+#### What is REVANTHKUMARTECHIE?
+
+REVANTHKUMARTECHIE is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
+</details>
 
 <br >
+
 <!--
-I love sharing knowledge and putting tutorials, courses and posts together for helping others, and tjat's why CoderOne Youtube Channel exists!
-
-#### What is CoderOne?
-
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
-
 #### Coding Stats
 
 <!--START_SECTION:waka-->
@@ -59,12 +63,12 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 <!--END_SECTION:waka-->
+
 -->
-#### Github Stats
 
-![@REVANTHKUMAROFFICIAL's github stats](https://github-readme-stats.vercel.app/api?username=revanthkumarofficial&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-</details>
+
+
 
 <!--
 [reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
