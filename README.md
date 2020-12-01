@@ -36,7 +36,7 @@ I'm REVANTH a FULL STACK DEVELOPER, I do work on Design and Development. I reall
 
 <details>
 <summary>
-  More stuff about me
+<b>More stuff about me </b>
 </summary>
   
 #### Github Stats
