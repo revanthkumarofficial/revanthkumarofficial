@@ -1,6 +1,6 @@
 ## Hi there 👋, @revanthkumarofficial
 ### SOFTWARE DEVELOPER, YOUTUBE CONTENT CREATOR, BLOGGER, TEACHER
-<p style="color:green;">![SOFTWARE DEVELOPER, BLOGGER, TEACHER](https://i.imgur.com/qqRvIAC.png)</p>
+![SOFTWARE DEVELOPER, BLOGGER, TEACHER](https://i.imgur.com/qqRvIAC.png)
 ---
 I'm REVANTH a FULL STACK DEVELOPER, I do work on Design and Development. I really enjoy learning Languages and Frameworks like SpringBoot, Angular, as well do Blogging, Youtube Content Creation and Teaching. In general, i also enjoy stuff like Designing and Wireframing of UI/UX.
 
