@@ -12,6 +12,9 @@ I'm REVANTH a FULL STACK DEVELOPER, I do work on Design and Development. I reall
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)<!-- [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 
+<img align="right" alt="GIF" src="https://github.com/revanthkumarofficial/revanthkumarofficial/blob/main/IMAGES%20AND%20GIFS/CODING.gif?raw=true" width="500" height="320" />
+
+
 - 🔭 I’m currently working on my Personal Portfolio. 
 - 🌱 I’m currently learning REACT
 - :computer: Most used line of code `git commit -m "Initial Commit"`
@@ -39,10 +42,7 @@ I'm REVANTH a FULL STACK DEVELOPER, I do work on Design and Development. I reall
 <b>More stuff about me </b>
 </summary>
   
-#### Github Stats
-<!--
-![@REVANTHKUMAROFFICIAL's github stats](https://github-readme-stats.vercel.app/api?username=revanthkumarofficial&count_private=true&theme=tokyonight&hide=contribs,prs)
--->
+#### 📈 My GitHub Stats
 ![REVANTHKUMAROFFICIAL's Github Stats](https://github-readme-stats.vercel.app/api?username=revanthkumarofficial&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=contribs,prs)
 
 I love sharing knowledge and putting tutorials, courses and posts together for helping others, and that's why CoderOne Youtube Channel exists!
