@@ -43,7 +43,7 @@ I'm REVANTH a FULL STACK DEVELOPER, I do work on Design and Development. I reall
 <!--
 ![@REVANTHKUMAROFFICIAL's github stats](https://github-readme-stats.vercel.app/api?username=revanthkumarofficial&count_private=true&theme=tokyonight&hide=contribs,prs)
 -->
-![REVANTHKUMAROFFICIAL's Github Stats](https://github-readme-stats.vercel.app/api?username=revanthkumarofficial&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![REVANTHKUMAROFFICIAL's Github Stats](https://github-readme-stats.vercel.app/api?username=revanthkumarofficial&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=contribs,prs)
 
 I love sharing knowledge and putting tutorials, courses and posts together for helping others, and that's why CoderOne Youtube Channel exists!
 
