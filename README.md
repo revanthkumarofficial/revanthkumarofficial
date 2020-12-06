@@ -56,21 +56,6 @@ REVANTHKUMARTECHIE is a youtube channel for learning Web/Mobile development, cod
 #### 📈 My GitHub Stats
 ![REVANTHKUMAROFFICIAL's Github Stats](https://github-readme-stats.vercel.app/api?username=revanthkumarofficial&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=contribs,prs)
 
-<a href="https://github.com/revanthkumarofficial/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.revanthkumarofficial.vercel.app/api/top-langs/?username=revanthkumarofficial&layout=compact&theme=material-palenight" />
-</a>
-
-<a href="https://github.com/revanthkumarofficial/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.revanthkumarofficial.vercel.app/api/pin/?username=revanthkumarofficial&repo=github-readme-stats&theme=material-palenight" />
-</a>    
-<a href="https://github.com/revanthkumarofficial/revanthkumarofficial.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.revanthkumarofficial.vercel.app/api/pin/?username=revanthkumarofficial&repo=revanthkumarofficial.github.io&theme=material-palenight" />
-</a>
-
-
 
 <!--
 #### Coding Stats
