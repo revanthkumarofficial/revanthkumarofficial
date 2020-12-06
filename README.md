@@ -46,17 +46,31 @@ I'm REVANTH a FULL STACK DEVELOPER, I do work on Design and Development. I reall
 <b>More stuff about me </b>
 </summary>
   
-#### 📈 My GitHub Stats
-![REVANTHKUMAROFFICIAL's Github Stats](https://github-readme-stats.vercel.app/api?username=revanthkumarofficial&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=contribs,prs)
-
 I love sharing knowledge and putting tutorials, courses and posts together for helping others, and that's why CoderOne Youtube Channel exists!
 
 #### What is REVANTHKUMARTECHIE?
 
 REVANTHKUMARTECHIE is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
 </details>
+  
+#### 📈 My GitHub Stats
+![REVANTHKUMAROFFICIAL's Github Stats](https://github-readme-stats.vercel.app/api?username=revanthkumarofficial&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=contribs,prs)
 
-<br >
+<a href="https://github.com/revanthkumarofficial/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.revanthkumarofficial.vercel.app/api/top-langs/?username=revanthkumarofficial&layout=compact&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/revanthkumarofficial/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.revanthkumarofficial.vercel.app/api/pin/?username=revanthkumarofficial&repo=github-readme-stats&theme=material-palenight" />
+</a>    
+<a href="https://github.com/revanthkumarofficial/revanthkumarofficial.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.revanthkumarofficial.vercel.app/api/pin/?username=revanthkumarofficial&repo=revanthkumarofficial.github.io&theme=material-palenight" />
+</a>
+
+
 
 <!--
 #### Coding Stats
