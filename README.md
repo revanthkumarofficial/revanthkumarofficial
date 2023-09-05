@@ -39,7 +39,7 @@ I'm REVANTH a FULL STACK DEVELOPER, I do work on Design and Development. I reall
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=revanthkumarofficial.official)
+![visitors](https://komarev.com/ghpvc/?username=revanthkumarofficical&color=green)
 
 <details>
 <summary>
