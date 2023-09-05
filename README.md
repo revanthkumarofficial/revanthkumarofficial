@@ -34,7 +34,7 @@ I'm REVANTH a FULL STACK DEVELOPER, I do work on Design and Development. I reall
 
 #### Bizness
 - :paperclip: [My Resume/CV](https://github.com/username/resume.pdf)
-- :email: ______@gmail.com
+- :email:
 
 
 #### Profile Visits 
